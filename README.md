@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Navin!</h1>
-<h3 align="center">A passionate Data engineer from India</h3>
+<h3 align="center">A passionate Data engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkumar05&label=Profile%20views&color=0e75b6&style=flat" alt="navinkumar05" /> </p>
 
@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/navinkumar05/navinkumar05](https://github.com/navinkumar05/navinkumar05)
 
-- 💬 Ask me about **Data engineering, SQL, Databases, Data pipelines**
-
-- 📫 How to reach me **https://www.linkedin.com/in/navinkumar05/**
+- 📫 Here's how you can reach me **https://www.linkedin.com/in/navinkumar05/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
