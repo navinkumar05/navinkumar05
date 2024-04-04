@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   - [Building Data model and Database](https://github.com/navinkumar05/Building_Data_Model_and_Database)
   - [Azure end to end project]()
 - 📝 Here are my most recent blogs:
-  - Medium
+  - Hash Node
     - [hive-orc-file-format](https://notes123.hashnode.dev/hive-orc-file-format)
     - [how-to-decide-bucket-count-in-hive](https://notes123.hashnode.dev/how-to-decide-bucket-count-in-hive)
     - [ACID](https://notes123.hashnode.dev/acid-properties)
