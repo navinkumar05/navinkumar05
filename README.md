@@ -25,13 +25,14 @@ Here are some ideas to get you started:
   - 🤘 You can find various data engineering resource and POC on my profile
 
 - 🧑🏻🌱 I am currenly learning
-  - Cloud- Azure and snowflake
-  - Exporing Modern Data Stack (Airflow, Databricks)
+  - AWS for data engineering
   - How to architectect better data system.
 
 - 👨‍💻 Here are my Open Projects so far: I keep building projects for my best practices, here are some
+  - [AWS- Spotify Data Pipeline (ETL) Project Using Python](https://github.com/navinkumar05/Spotify-Data-Pipeline-ETL-Project-Using-Python)
+  - [Azure Adventure works end to end project with CICD](https://github.com/navinkumar05/Azure-Adventure-Works-End_to_End-Data-Pipeline-Project)
   - [Building Data model and Database](https://github.com/navinkumar05/Building_Data_Model_and_Database)
-  - [Azure end to end project]()
+
 - 📝 Here are my most recent blogs:
   - Hash Node
     - [hive-orc-file-format](https://notes123.hashnode.dev/hive-orc-file-format)
