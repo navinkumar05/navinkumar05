@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 - 😄 My pronouns are: He/His/Him
 
-- 🔭 I have 2 year's of working experience as data engineer in [Temenos Data HUb](https://www.temenos.com/products/data-and-analytics/temenos-data-hub/).
-  - 👯 I'm looking for full time job as a data engineer opportunitites
+- 🔭 I have 3 year's of working experience as data engineer and skilled in vaious tools like [Temenos Data HUb](https://www.temenos.com/products/data-and-analytics/temenos-data-hub/), Databricks, ADF, Synapse & snowflake.
   - 💬 I'm looking to collaborate and create some cool content that we can share with the community
   - 🤘 You can find various data engineering resource and POC on my profile
 
